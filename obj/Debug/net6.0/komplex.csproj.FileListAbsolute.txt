@@ -1,0 +1,15 @@
+C:\Users\sereg\desktop\progalap\komplex\bin\Debug\net6.0\komplex.exe
+C:\Users\sereg\desktop\progalap\komplex\bin\Debug\net6.0\komplex.deps.json
+C:\Users\sereg\desktop\progalap\komplex\bin\Debug\net6.0\komplex.runtimeconfig.json
+C:\Users\sereg\desktop\progalap\komplex\bin\Debug\net6.0\komplex.dll
+C:\Users\sereg\desktop\progalap\komplex\bin\Debug\net6.0\komplex.pdb
+C:\Users\sereg\desktop\progalap\komplex\obj\Debug\net6.0\komplex.csproj.AssemblyReference.cache
+C:\Users\sereg\desktop\progalap\komplex\obj\Debug\net6.0\komplex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sereg\desktop\progalap\komplex\obj\Debug\net6.0\komplex.AssemblyInfoInputs.cache
+C:\Users\sereg\desktop\progalap\komplex\obj\Debug\net6.0\komplex.AssemblyInfo.cs
+C:\Users\sereg\desktop\progalap\komplex\obj\Debug\net6.0\komplex.csproj.CoreCompileInputs.cache
+C:\Users\sereg\desktop\progalap\komplex\obj\Debug\net6.0\komplex.dll
+C:\Users\sereg\desktop\progalap\komplex\obj\Debug\net6.0\refint\komplex.dll
+C:\Users\sereg\desktop\progalap\komplex\obj\Debug\net6.0\komplex.pdb
+C:\Users\sereg\desktop\progalap\komplex\obj\Debug\net6.0\komplex.genruntimeconfig.cache
+C:\Users\sereg\desktop\progalap\komplex\obj\Debug\net6.0\ref\komplex.dll
